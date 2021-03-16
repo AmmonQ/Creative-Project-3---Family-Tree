@@ -3,6 +3,7 @@ body {
     color: white !important;
     margin: 1em;
     margin-bottom: 6em;
+    font-family: 'Blinker', sans-serif;
 }
 
 .person, .saved_person {
@@ -15,6 +16,7 @@ body {
 
 #nav {
     color: white;
+    font-family: 'Noto Serif', serif;
 }
 
 .pure-button {
@@ -33,6 +35,7 @@ body {
 }
 
 footer {
+    font-family: 'Noto Serif', serif;
     width: 100%;
     background-color: #CC2936;
     color: white;
