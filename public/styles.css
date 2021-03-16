@@ -1,0 +1,49 @@
+body {
+    background-color: #08415C;
+    color: white !important;
+    margin: 1em;
+}
+
+.person, .saved_person {
+    background-color: #CC2936;
+    color: white;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 1em;
+}
+
+#nav {
+    color: white;
+}
+
+.pure-button {
+    margin-left: 1em;
+    margin-right: 1em;
+    background-color: #08415C !important;
+    color: white;
+}
+
+#print {
+    background-color: #CC2936 !important;
+    color: white !important;
+}
+
+footer {
+    width: 100%;
+    background-color: #CC2936;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    padding: 1em;
+    text-align: center;
+}
+
+footer a {
+    margin: 0;
+    padding: 0;
+    border-radius: 0;
+    min-width: 0;
+    color: black !important;
+    text-decoration: underline;
+}

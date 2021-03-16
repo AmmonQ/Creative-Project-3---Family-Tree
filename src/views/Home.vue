@@ -1,18 +1,8 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
-  </div>
+<div>
+  <h1>Family Tree Navigation App</h1>
+    <p>
+        Welcome to the Family Tree Navigation App. With this webapp, you can browse a family tree filled with mock data. If you like you can save a list of people you find interesting and view the list on the "Saved People" page. You can print the list there.
+    </p>
+</div>
 </template>
-
-<script>
-// @ is an alias to /src
-import HelloWorld from "@/components/HelloWorld.vue";
-
-export default {
-  name: "Home",
-  components: {
-    HelloWorld
-  }
-};
-</script>
